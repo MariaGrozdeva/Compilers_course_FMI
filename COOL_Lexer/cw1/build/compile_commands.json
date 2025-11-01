@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/student/my-code/COOL_Lexer/cw1/build",
+  "command": "/usr/bin/c++  -I/home/student/my-code/COOL_Lexer/cw1/tools/../gen -I/usr/local/include/antlr4-runtime -g -std=c++23 -g -o CMakeFiles/generated_lexer.dir/home/student/my-code/COOL_Lexer/cw1/gen/CoolLexer.cpp.o -c /home/student/my-code/COOL_Lexer/cw1/gen/CoolLexer.cpp",
+  "file": "/home/student/my-code/COOL_Lexer/cw1/gen/CoolLexer.cpp",
+  "output": "CMakeFiles/generated_lexer.dir/home/student/my-code/COOL_Lexer/cw1/gen/CoolLexer.cpp.o"
+},
+{
+  "directory": "/home/student/my-code/COOL_Lexer/cw1/build",
+  "command": "/usr/bin/c++  -I/home/student/my-code/COOL_Lexer/cw1/tools/../gen -I/usr/local/include/antlr4-runtime -g -std=c++23 -g -o CMakeFiles/lexer.dir/home/student/my-code/COOL_Lexer/cw1/src/drivers/LexerDriver.cpp.o -c /home/student/my-code/COOL_Lexer/cw1/src/drivers/LexerDriver.cpp",
+  "file": "/home/student/my-code/COOL_Lexer/cw1/src/drivers/LexerDriver.cpp",
+  "output": "CMakeFiles/lexer.dir/home/student/my-code/COOL_Lexer/cw1/src/drivers/LexerDriver.cpp.o"
+}
+]

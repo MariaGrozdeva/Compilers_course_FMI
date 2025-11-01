@@ -1,0 +1,1 @@
+/usr/bin/c++ -g "CMakeFiles/lexer.dir/home/student/my-code/COOL_Lexer/cw1/src/drivers/LexerDriver.cpp.o" -o lexer  libgenerated_lexer.a /usr/local/lib/libantlr4-runtime.a 

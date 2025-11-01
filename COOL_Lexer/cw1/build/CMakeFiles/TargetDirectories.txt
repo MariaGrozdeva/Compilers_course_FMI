@@ -1,0 +1,5 @@
+/home/student/my-code/COOL_Lexer/cw1/build/CMakeFiles/gen_lexer.dir
+/home/student/my-code/COOL_Lexer/cw1/build/CMakeFiles/generated_lexer.dir
+/home/student/my-code/COOL_Lexer/cw1/build/CMakeFiles/lexer.dir
+/home/student/my-code/COOL_Lexer/cw1/build/CMakeFiles/edit_cache.dir
+/home/student/my-code/COOL_Lexer/cw1/build/CMakeFiles/rebuild_cache.dir

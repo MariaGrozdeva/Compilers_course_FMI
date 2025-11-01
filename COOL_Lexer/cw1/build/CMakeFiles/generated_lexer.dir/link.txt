@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgenerated_lexer.a "CMakeFiles/generated_lexer.dir/home/student/my-code/COOL_Lexer/cw1/gen/CoolLexer.cpp.o"
+/usr/bin/ranlib libgenerated_lexer.a
