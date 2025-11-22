@@ -1,0 +1,1 @@
+/usr/bin/c++ -g "CMakeFiles/parser.dir/home/student/my-code/cw2/src/drivers/ParserDriver.cpp.o" -o parser  /home/student/my-code/cw2/tools/../lib/liblexer_gen_code.a libparser_gen_code.a /usr/local/lib/libantlr4-runtime.a 

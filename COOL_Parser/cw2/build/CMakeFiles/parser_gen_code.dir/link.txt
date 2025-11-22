@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparser_gen_code.a "CMakeFiles/parser_gen_code.dir/home/student/my-code/cw2/gen/CoolParser.cpp.o" "CMakeFiles/parser_gen_code.dir/home/student/my-code/cw2/gen/CoolParserBaseVisitor.cpp.o" "CMakeFiles/parser_gen_code.dir/home/student/my-code/cw2/gen/CoolParserVisitor.cpp.o"
+/usr/bin/ranlib libparser_gen_code.a

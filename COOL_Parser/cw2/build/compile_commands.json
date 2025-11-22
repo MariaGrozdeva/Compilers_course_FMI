@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/student/my-code/cw2/build",
+  "command": "/usr/bin/c++  -I/home/student/my-code/cw2/tools/../gen -I/usr/local/include/antlr4-runtime -g -std=c++23 -g -o CMakeFiles/parser_gen_code.dir/home/student/my-code/cw2/gen/CoolParser.cpp.o -c /home/student/my-code/cw2/gen/CoolParser.cpp",
+  "file": "/home/student/my-code/cw2/gen/CoolParser.cpp",
+  "output": "CMakeFiles/parser_gen_code.dir/home/student/my-code/cw2/gen/CoolParser.cpp.o"
+},
+{
+  "directory": "/home/student/my-code/cw2/build",
+  "command": "/usr/bin/c++  -I/home/student/my-code/cw2/tools/../gen -I/usr/local/include/antlr4-runtime -g -std=c++23 -g -o CMakeFiles/parser_gen_code.dir/home/student/my-code/cw2/gen/CoolParserBaseVisitor.cpp.o -c /home/student/my-code/cw2/gen/CoolParserBaseVisitor.cpp",
+  "file": "/home/student/my-code/cw2/gen/CoolParserBaseVisitor.cpp",
+  "output": "CMakeFiles/parser_gen_code.dir/home/student/my-code/cw2/gen/CoolParserBaseVisitor.cpp.o"
+},
+{
+  "directory": "/home/student/my-code/cw2/build",
+  "command": "/usr/bin/c++  -I/home/student/my-code/cw2/tools/../gen -I/usr/local/include/antlr4-runtime -g -std=c++23 -g -o CMakeFiles/parser_gen_code.dir/home/student/my-code/cw2/gen/CoolParserVisitor.cpp.o -c /home/student/my-code/cw2/gen/CoolParserVisitor.cpp",
+  "file": "/home/student/my-code/cw2/gen/CoolParserVisitor.cpp",
+  "output": "CMakeFiles/parser_gen_code.dir/home/student/my-code/cw2/gen/CoolParserVisitor.cpp.o"
+},
+{
+  "directory": "/home/student/my-code/cw2/build",
+  "command": "/usr/bin/c++  -I/home/student/my-code/cw2/tools/../include -I/home/student/my-code/cw2/tools/../gen -I/usr/local/include/antlr4-runtime -g -std=c++23 -g -o CMakeFiles/parser.dir/home/student/my-code/cw2/src/drivers/ParserDriver.cpp.o -c /home/student/my-code/cw2/src/drivers/ParserDriver.cpp",
+  "file": "/home/student/my-code/cw2/src/drivers/ParserDriver.cpp",
+  "output": "CMakeFiles/parser.dir/home/student/my-code/cw2/src/drivers/ParserDriver.cpp.o"
+}
+]

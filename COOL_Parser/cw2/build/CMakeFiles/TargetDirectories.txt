@@ -1,0 +1,5 @@
+/home/student/my-code/cw2/build/CMakeFiles/gen_parser.dir
+/home/student/my-code/cw2/build/CMakeFiles/parser_gen_code.dir
+/home/student/my-code/cw2/build/CMakeFiles/parser.dir
+/home/student/my-code/cw2/build/CMakeFiles/edit_cache.dir
+/home/student/my-code/cw2/build/CMakeFiles/rebuild_cache.dir
